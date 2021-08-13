@@ -9,8 +9,8 @@ const CartMenu = () => {
       <section className='cart'>
         {/* cart header */}
         <header>
-          <h2>your bag</h2>
-          <h4 className='empty-cart'>is currently empty</h4>
+          <h2>Your Bag</h2>
+          <h4 className='empty-cart'>Is currently empty</h4>
         </header>
       </section>
     )
